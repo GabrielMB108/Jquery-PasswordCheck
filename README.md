@@ -6,4 +6,5 @@ Projekt strony do:<br/>
 -sprawdzanie trudności hasła<br/>
 -proponowanie trudniejszego hasła<br/>
 <br/><br/>
-wykorzystanie biblioteki jQuery i bootsrtap
+wykorzystanie biblioteki jQuery i bootsrtap<br/>
+więc aby strona działała musi być hostowana na serverze, czyli np odpalona w programie XAMPP
