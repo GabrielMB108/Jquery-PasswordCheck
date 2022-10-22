@@ -1,0 +1,52 @@
+#loading{
+    height:0;
+    width:auto;
+    position:absolute;
+    display: block;
+    margin:auto;
+    margin-left:25vw;
+}
+#faqButton{
+    height:50px;
+    width:100px;
+    background-color:rgb(30, 160, 40);
+    padding:10px;
+    text-align:center;
+    color:black;
+}
+#faqbg{
+    position: fixed;
+    left:0;
+    bottom:0;
+    width:0vw;
+    height:0vh;
+    background-color:rgba(0, 0, 0, 0.0);
+}
+#faqmain{
+    left:0;
+    bottom:0;
+    width:0vw;
+    height:0vh;
+    font-size:0%;
+}
+#faqtext1{
+    font-size:0%;
+}
+#faqtext2{
+    font-size:0%;
+}
+#faqtext3{
+    font-size:0%;
+}
+#faqclose{
+    padding:5px;
+}
+#result{
+    padding:0px;
+    width:0vw;
+    height:0vh;
+    font-size:0vw;
+    margin-left:auto;
+    margin-right:auto;
+    border:0px solid;
+}
